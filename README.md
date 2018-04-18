@@ -7,4 +7,5 @@ The objective of this project is to identify hazardous areas in NYC partitioned 
 [311 Service Request](https://data.cityofnewyork.us/Social-Services/311-Service-Requests/fvrb-kbbt) <br />
 
 ## Deliverable <br />
-Data Visualization: [2D Choropleth Map]()
+Data Visualization: [2D Choropleth Map]() <br />
+                    [2D Choropleth Map with Widgets]()
