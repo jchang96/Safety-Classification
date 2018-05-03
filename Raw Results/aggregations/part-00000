@@ -1,0 +1,5 @@
+{'Accidents per 1000 vehicles': 144.0, 'Deaths per 1000 accidents': 144.0, 'Injuries per 1000 accidents': 144.0, 'Vehicles involved per accident': 144.0, 'summary': u'count'}
+{'Accidents per 1000 vehicles': 0.15965278446674347, 'Deaths per 1000 accidents': 1.389722228050232, 'Injuries per 1000 accidents': 274.1157531738281, 'Vehicles involved per accident': 1.967847228050232, 'summary': u'mean'}
+{'Accidents per 1000 vehicles': 0.14572420716285706, 'Deaths per 1000 accidents': 1.3042136430740356, 'Injuries per 1000 accidents': 79.18305206298828, 'Vehicles involved per accident': 0.0474107563495636, 'summary': u'stddev'}
+{'Accidents per 1000 vehicles': 0.009999999776482582, 'Deaths per 1000 accidents': 0.0, 'Injuries per 1000 accidents': 107.18000030517578, 'Vehicles involved per accident': 1.7999999523162842, 'summary': u'min'}
+{'Accidents per 1000 vehicles': 0.8600000143051147, 'Deaths per 1000 accidents': 6.190000057220459, 'Injuries per 1000 accidents': 481.44000244140625, 'Vehicles involved per accident': 2.0899999141693115, 'summary': u'max'}
