@@ -8,4 +8,3 @@ The objective of this project is to identify hazardous areas in NYC partitioned 
 
 ## Deliverable <br />
 [2D Choropleth Map](https://jchang96.carto.com/builder/1c807772-c150-4cde-bdae-ca46ff21cd0b/embed) <br />
-[2D Choropleth Map with Widgets](https://jchang96.carto.com/builder/73d462dc-0509-4833-b1c8-c0d50a98ca2a/embed)
